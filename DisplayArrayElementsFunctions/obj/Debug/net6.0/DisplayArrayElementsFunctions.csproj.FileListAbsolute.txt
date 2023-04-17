@@ -1,0 +1,15 @@
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\bin\Debug\net6.0\DisplayArrayElementsFunctions.exe
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\bin\Debug\net6.0\DisplayArrayElementsFunctions.deps.json
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\bin\Debug\net6.0\DisplayArrayElementsFunctions.runtimeconfig.json
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\bin\Debug\net6.0\DisplayArrayElementsFunctions.dll
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\bin\Debug\net6.0\DisplayArrayElementsFunctions.pdb
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.csproj.AssemblyReference.cache
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.AssemblyInfoInputs.cache
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.AssemblyInfo.cs
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.dll
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\refint\DisplayArrayElementsFunctions.dll
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.pdb
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\DisplayArrayElementsFunctions.genruntimeconfig.cache
+C:\Users\Ekin\source\repos\Week7Functionss\DisplayArrayElementsFunctions\obj\Debug\net6.0\ref\DisplayArrayElementsFunctions.dll

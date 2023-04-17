@@ -1,0 +1,15 @@
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\bin\Debug\net6.0\Week7Functionss.exe
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\bin\Debug\net6.0\Week7Functionss.deps.json
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\bin\Debug\net6.0\Week7Functionss.runtimeconfig.json
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\bin\Debug\net6.0\Week7Functionss.dll
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\bin\Debug\net6.0\Week7Functionss.pdb
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.csproj.AssemblyReference.cache
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.AssemblyInfoInputs.cache
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.AssemblyInfo.cs
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.dll
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\refint\Week7Functionss.dll
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.pdb
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\Week7Functionss.genruntimeconfig.cache
+C:\Users\Ekin\source\repos\Week7Functionss\Week7Functionss\obj\Debug\net6.0\ref\Week7Functionss.dll
